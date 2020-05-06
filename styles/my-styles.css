@@ -1,0 +1,77 @@
+.html {
+  scroll-behavior: smooth; 
+}
+
+.navbar {
+  Background-color:red; 
+}
+
+.navbar-brand:hover,.nav-link:hover {
+  color: gold !important;
+}
+
+.dropdown-menu {
+  background-color:#fff 
+}
+
+@media (max-width:600px) { 
+  }
+}
+.carousel-caption: {
+  background: rgb (0,0,0,1); 
+  width: 50%;
+  margin:auto;
+}
+
+.my-google-font {
+  font-size: 60px; 
+  font-family:Pacifico
+}
+
+.fa-row {
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #ffffff; 
+  text-align: center; 
+}
+
+.fab{
+  font-size: 60px;
+}
+
+.fab:hover, .fab-links:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.fab-links {
+  color: #ffffff;
+  
+}
+
+.footer-row {
+  background-color: red;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #ffffff; 
+  text-align: center; 
+}
+
+.footer-row a {
+   color: #ffffff;
+}
+
+.video-row{
+  position: relative;
+  top; 30px;
+  text-align: center; 
+  padding: 32px; 
+}
+
+.google-fonts-sample{
+  text-align: left !important; 
+  font-family: pacifico; 
+  font-size: 28px; 
+  padding-left: 40px; 
+}
